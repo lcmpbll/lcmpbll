@@ -2,6 +2,7 @@
 
 
 <div align='center'>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -14,7 +15,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lcmpbll&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmpbll&hide=TeX&layout=compact)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=lcmpbll.lcmpbll)
+
+
 </div>
