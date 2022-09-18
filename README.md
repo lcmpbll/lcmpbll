@@ -15,6 +15,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  
+  ***
+  
 <div align='center' >
 <div align='right' width='50%' height='250px' display='inline-block'>
   
@@ -27,5 +30,7 @@
   
 </div>
 </div>
+  
+  ***
 
 </div>
