@@ -19,17 +19,17 @@
   ***
   
 <div align='center' >
-<div align='right' width='50%' height='250px' display='inline-block'>
+
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lcmpbll&count_private=true&show_icons=true&include_all_commits=true)
   
-</div>
-<div align='left' width='50%' height='250px' display='inline-block'>
+:-------------------------:|:-------------------------:
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lcmpbll&count_private=true&show_icons=true&include_all_commits=true)  |  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmpbll&hide=TeX&layout=compact)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmpbll&hide=TeX&layout=compact)
+
   
-</div>
-</div>
+
+  </div>
   
   ***
 
