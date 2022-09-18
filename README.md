@@ -16,12 +16,12 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <div align='center'>
-<div align='right'>
+<div align='right' width='50%'>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lcmpbll&count_private=true&show_icons=true&include_all_commits=true)
   
 </div>
-<div align='left'>
+<div align='left' width='50%'>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcmpbll&hide=TeX&layout=compact)
   
