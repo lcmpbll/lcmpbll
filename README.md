@@ -3,8 +3,7 @@
 <h3 align="center">A developer from Portland</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lcmpbll" alt="lcmpbll" /></a> </p> -->
-<div display='grid' gridTemplateColumns='2fr 1fr'>
-   <div align='left'>
+
 - 🔭 I’m currently working on [**CharacterSheet**](https://github.com/lcmpbll/characterSheet)
 
 - 🌱 I’m currently learning **Python**
@@ -14,14 +13,12 @@
 - 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **liam22campbell@gmail.com**
-    </div>
-   <div align='right'>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/liam-campbell-portland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liam-campbell-portland" height="30" width="40" /></a>
 </p>
-   </div>
-</div>
+
 <div display='grid'>
 <h3 align="left">Languages and Tools:</h3>
 
