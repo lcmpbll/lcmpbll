@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/liam-campbell-portland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liam-campbell-portland" height="30" width="40" /></a>
 </p>
-<div display='grid' gridTemplateRows='1fr 1fr 1fr 3fr'>
+<div display='grid'>
 <h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lcmpbll&show_icons=true&locale=en&layout=compact" alt="lcmpbll" /></p>
@@ -30,7 +30,7 @@
   <div display='flex' flexDirection='row' margin='8px'>
    <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=lcmpbll&show_icons=true&locale=en" alt="lcmpbll" /></p>
 
-    <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lcmpbll&" alt="lcmpbll" /></p>
+    <p> &nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=lcmpbll&" alt="lcmpbll" /></p>
     
   </div>  
 
