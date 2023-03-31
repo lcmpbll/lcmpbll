@@ -28,9 +28,9 @@
 
 
 
-    <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=lcmpbll&show_icons=true&locale=en" alt="lcmpbll" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcmpbll&show_icons=true&locale=en" alt="lcmpbll" /></p>
 
-    <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=lcmpbll&" alt="lcmpbll" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lcmpbll&" alt="lcmpbll" /></p>
     
 
 </div>
